@@ -1,0 +1,9 @@
+li {
+    margin: 1rem;
+    cursor: pointer;
+}
+
+img{
+    width: 7rem ;
+    background-color: black;
+}
